@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Santosh Pradhan
+- 👀 I’m interested in Technology & Innovation
+- 🌱 I’m currently learning AWS
+- 💞️ I’m looking to collaborate on OpenSource projects around Salesforce
+- 📫 Reach me on www.santoshpradhan.com
